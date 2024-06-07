@@ -8,14 +8,16 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vinicius-HTML" height="30" width="40" src="https://github.com/Viniciusgrn/Viniciusgrn/blob/main/icons/HTML.svg">
-  <img align="center" alt="Vinicius-CSS" height="30" width="40" src="https://github.com/Viniciusgrn/Viniciusgrn/blob/main/icons/CSS.svg">
-  <img align="center" alt="Vinicius-Js" height="30" width="40" src="https://github.com/Viniciusgrn/Viniciusgrn/blob/main/icons/JavaScript.svg">
-  <img align="center" alt="Vinicius-Bootstrap" height="30" width="40" src="https://github.com/Viniciusgrn/Viniciusgrn/blob/main/icons/Bootstrap.svg">
-  <img align="center" alt="Vinicius-C" height="30" width="40" src="https://github.com/Viniciusgrn/Viniciusgrn/blob/main/icons/C.svg">
-  <img align="center" alt="Vinicius-Python" height="30" width="40" src="https://github.com/Viniciusgrn/Viniciusgrn/blob/main/icons/Python-Dark.svg">
-  <img align="center" alt="Vinicius-Django" height="30" width="40" src="https://github.com/Viniciusgrn/Viniciusgrn/blob/main/icons/Django.svg">
-  <img align="center" alt="Vinicius-MySQL" height="30" width="40" src="https://github.com/Viniciusgrn/Viniciusgrn/blob/main/icons/MySQL-Dark.svg">
+  
+ <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/JavaScript.svg">
+ <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/TypeScript.svg">
+ <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/NodeJS.svg">
+ <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/MongoDB.svg">
+ <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/HTML.svg">
+ <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/CSS.svg">
+ <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/Bootstrap.svg">
+ <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/C.svg">
+  
 </div>
 
 <hr>
