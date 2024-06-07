@@ -1,6 +1,5 @@
 <h3> <b>Me chamo Bruno Moreno, atualmente sou desenvolvedor back-end em Nodejs(JavaScript)</b></h3>
 <hr>
-<!--<p> Atualmente estagiando com back-end</p>
 
 <p> Estudando JavaScript</p>
 
