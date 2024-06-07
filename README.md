@@ -11,7 +11,7 @@
   
  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/JavaScript.svg">
  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/TypeScript.svg">
- <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/NodeJS.svg">
+ <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/NodeJS-Dark.svg">
  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/MongoDB.svg">
  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/HTML.svg">
  <img align="center" alt="Bruno-HTML" height="30" width="40" src="https://github.com/BrunoCarriaoMoreno/BrunoCarriaoMoreno/blob/main/icons/CSS.svg">
